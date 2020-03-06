@@ -16,4 +16,4 @@ darkflow and all of it's dependencies:
 
 express, fs-extra, mkdrip, socket.io
 
-To run the server locally `node indexOld`. The server listens for socket.io events for "Img" which will process the image as data input.
+To run the server locally `node server/indexOld`. The server listens for socket.io events for "Img" which will process the image as data input.
