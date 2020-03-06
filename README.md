@@ -1,7 +1,7 @@
 # RiichiMahjongCalculatorBackend
 
 Complete backend for the Riichi Mahjong Calculator tile recognition system. The "Mahjong OCR" works by first splitting the base image into tiles using
-Darkflow's object detector and then classifies these images using google's mobilenet v1 model.
+Darkflow's object detector (tiny-flow-voc3) and then classifies these images using google's mobilenet v1 model.
 
 
 
